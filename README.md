@@ -1,11 +1,15 @@
 ### Hello there 👋
+I'm Thirsty, also known as Thirstums, I'm relatively new to Programming :D oh and btw, make sure to Stay Hydrated!
+
+I’m currently working on Platify, which is an AI base Playlist Generator for Spotify and in the future also for Soundcloud.
+
 
 <!--
 **Thirstums/Thirstums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Platify, which is an AI base Playlist Generator for Spotify and in the future also for Soundcloud
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
