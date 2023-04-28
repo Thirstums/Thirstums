@@ -2,7 +2,7 @@
 I'm Thirsty, also known as Thirstums, I'm relatively new to Programming :D oh and btw, make sure to Stay Hydrated!
 
 
-
+![Platify](/img/PlatifyLogo.png)
 
 <!--
 **Thirstums/Thirstums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
