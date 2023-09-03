@@ -1,4 +1,5 @@
-### Hello there 👋
+[Hello There](https://github.com/Thirstums/Thirstums/blob/main/header.png)
+
 I'm Thirsty, also known as Thirstums, I'm relatively new to Programming :D oh and btw, make sure to Stay Hydrated!
 
 Currently Wokring on
