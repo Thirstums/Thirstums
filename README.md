@@ -1,10 +1,7 @@
 ![Hello There](https://github.com/Thirstums/Thirstums/blob/main/header.png)
 
-I'm Thirsty, also known as Thirstums, I'm relatively new to Programming :D oh and btw, make sure to Stay Hydrated!
+I'm Thirsty, also known as Thirstums, Stay Hydrated!
 
-Currently Wokring on
-- BlueberryTart
-- Ayumi
 <!--
 **Thirstums/Thirstums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
