@@ -1,6 +1,6 @@
 ![Hello There](https://github.com/Thirstums/Thirstums/blob/main/header.png)
 
-I'm Thirsty, also known as Thirstums, Stay Hydrated!
+I'm Janis, also known as Thirsty, Stay Hydrated!
 
 <!--
 **Thirstums/Thirstums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
