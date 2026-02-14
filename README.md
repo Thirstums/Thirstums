@@ -1,4 +1,4 @@
-![Hello There](https://github.com/Thirstums/Thirstums/blob/main/header.png)
+
 
 I'm Janis, also known as Thirsty, Stay Hydrated!
 
