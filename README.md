@@ -23,7 +23,7 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 
 ```
 
-I'm Janis, also known as Thirsty, Stay Hydrated!
+Slaying until they Praying
 
 <!--
 **Thirstums/Thirstums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
