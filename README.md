@@ -23,7 +23,7 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 
 ```
 
-Slaying until they Praying
+Slay
 
 <!--
 **Thirstums/Thirstums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
